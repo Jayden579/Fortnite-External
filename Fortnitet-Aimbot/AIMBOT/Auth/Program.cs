@@ -6,9 +6,8 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
 public static api KeyAuthApp = new api(
-    name: "(Proccer)",
-    ownerid: "(xFHo956UKL)",
-    secret: "(P16917e4a4deeea240248ff0acbdc51e41fe2fb9797ccb27955906401201d5dd5)",
+    name: "batwarekey",
+    ownerid: "EWjtay492S",
     version: "1.0"
 );
 
